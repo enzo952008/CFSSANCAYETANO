@@ -1,0 +1,71 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-restaurant-food-menu-background-picture-image_1046420.jpg");
+    margin-top: 10%;
+    justify-content: center;
+}
+h1{
+    color: whitesmoke;
+    font-size: 500%;
+     border: solid 1px;
+}
+#logoResto{
+    
+}
+a{
+    color: whitesmoke;
+    font-size: 150%;
+}
+header{
+    border:solid;
+    border-color: yellow;
+    text-align: center;
+    font-size: 120%;
+}
+
+h2{
+    color: black;
+    font-size: 500%;
+    
+}
+li{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+}
+footer,p{
+    color:#000000;
+}
+.entrada{
+    color:yellow;
+
+    
+}
+.PlatosPrincipales{
+    color: #dcff19;
+}
+.Postres{
+    color: #dcff19;
+
+}
+
+.bebidas{
+    color: #dcff19;
+}
+.imagenes{
+    width:259px;
+    height: 194px;
+    opacity: 0.9;
+}
+button, a{
+    color: #000000;
+}
+button:hover{
+    background-color: yellow;
+}
+
+
+
+
+
